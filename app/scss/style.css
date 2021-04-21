@@ -339,6 +339,7 @@ button:hover::before, .button:hover::before {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   margin-top: 1.5rem;
+  z-index: 3;
 }
 
 .header__menu a {
